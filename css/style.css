@@ -1,12 +1,11 @@
 /* add CSS class and element and selectors here */
 
 body {
-  background-color: #FF06C1;
-  background: linear-gradient(#FF06C1, white);
+  background: linear-gradient(#FF06C1, #E8FB5A);
   font-family: 'Asset', cursive;
   color: #E8FB5A;
   font-size: 200%;
-  background-image: "http://abwhs.ccs.k12.nc.us/files/2016/11/Wednesday.jpg"
+
 }
 
 h1 {
