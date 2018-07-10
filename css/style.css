@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: #FF06C1;
+  font-family: 'Asset', cursive;
+  color: #E8FB5A;
+  font-size: 200%;
+  background-image:
+}
+
+h1 {
+  text-align: center;
+}
