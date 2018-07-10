@@ -2,6 +2,7 @@
 
 body {
   background-color: #FF06C1;
+  background: linear-gradient(black, white);
   font-family: 'Asset', cursive;
   color: #E8FB5A;
   font-size: 200%;
