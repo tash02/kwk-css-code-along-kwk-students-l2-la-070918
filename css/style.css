@@ -2,7 +2,7 @@
 
 body {
   background: linear-gradient(#FF06C1, #E8FB5A);
-  font-family: 'Asset', cursive;
+  font-family: 'Libre Barcode 39 Extended', cursive;
   color: #E8FB5A;
   font-size: 200%;
 
@@ -11,3 +11,4 @@ body {
 h1 {
   text-align: center;
 }
+
